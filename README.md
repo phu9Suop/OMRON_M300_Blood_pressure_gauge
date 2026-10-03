@@ -9,7 +9,7 @@ To open :
 5. Widen Case on left and right in 3 places. 
 6. Cover will snap off.
 
-To close
+To close :
 1 .Insert cover from Bottom to top to catch under top noses. 
 2. Press on joint of bottom case and top cover
 3, Parts will snap together
