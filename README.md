@@ -12,5 +12,5 @@ To open :
 To close :
 1. Insert cover from Bottom to top to catch under top noses. 
 2. Press on joint of bottom case and top cover.
-3, Parts will snap together.
+3. Parts will snap together.
 4. Insert screws.
